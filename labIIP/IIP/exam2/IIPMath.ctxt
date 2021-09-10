@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IIPMath
+comment0.text=\r\n\ Clase\ IIPMath\:\ clase\ de\ utilidades\ que\ implementa\r\n\ algunas\ operaciones\ matematicas.\r\n\ \r\n\ @author\ Parcial\ 2\ -\ Ejercicio\ 1\ \r\n\ @version\ IIP\ -\ Curso\ 2020-21\r\n
+comment1.params=
+comment1.target=IIPMath()
+comment1.text=No\ se\ pueden\ crear\ objetos\ de\ este\ tipo.
+comment2.params=value
+comment2.target=int\ numTerms(int)
+comment2.text=\ Devuelve\ el\ numero\ de\ terminos\ a\ sumar\ de\ la\ serie\:\r\n\ \ \ \ \ a_1\ \=\ 2\ \r\n\ \ \ \ \ a_i\ \=\ a_(i-1)\ +\ 5\ *\ i,\ i\ >\ 1\r\n\ \ para\ que\ dicha\ suma\ sea\ mayor\ o\ igual\ que\ value.\r\n\ \ PRECONDICION\:\ value\ >\=\ 2\r\n
+numComments=3

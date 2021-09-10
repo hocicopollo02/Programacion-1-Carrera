@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pregunta1
+comment0.text=\r\n\ Clase\ Pregunta1.\ \r\n\ @author\ PRG\ -\ Parcial\ 1\r\n\ @version\ Curso\ 2020/21\r\n
+comment1.params=
+comment1.target=Pregunta1()
+comment2.params=v\ i\ f
+comment2.target=void\ parejas(int[],\ int,\ int)
+comment2.text=\ Escribe\ en\ la\ salida\ estandar\ las\ parejas\ de\ \r\n\ \ un\ array\ v\ de\ int\ desde\ el\ centro\ hacia\ fuera.\r\n\ \ Precondicion\:\ i\ \=\=\ 0\ y\ f\ \=\=\ v.length\ -\ 1\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

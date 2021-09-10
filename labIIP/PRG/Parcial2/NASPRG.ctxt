@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NASPRG
+comment1.params=
+comment1.target=NASPRG()
+comment2.params=s
+comment2.target=NASPRG(java.lang.String)
+comment2.text=Leer\ y\ crear\ una\ secuencia\ a\ partir\ de\ los\ datos\ del\ archivo\ (formato\ de\ cada\ l\u00EDnea\:\ nota\ apellidos\ nombre)
+comment3.params=n\ g
+comment3.target=void\ add(java.lang.String,\ double)
+comment3.text=Inserta\ por\ orden\ alfab\u00E9tico\ un\ nuevo\ estudiante\ dentro\ de\ la\ secuencia
+comment4.params=n
+comment4.target=double\ searchByName(java.lang.String)
+comment5.params=n\ g
+comment5.target=void\ reviewGrade(java.lang.String,\ double)
+comment6.params=
+comment6.target=void\ sortByGrade()
+comment6.text=\ Ordenar\ la\ secuencia\ (de\ mayor\ a\ menor\ nota)\ mediante\ el\ algoritmo\ de\ Selecci\u00F3n\ Directa\ implementado\ sobre\ secuencias\ \r\nde\ nodos\ enlazados\ (este\ problema\ crea\ la\ necesidad\ de\ implementar\ el\ m\u00E9todo\ de\ instancia\ compareTo\ dentro\ de\ la\ clase\ NodeStudent).
+comment7.params=s
+comment7.target=java.lang.String\ toString(java.lang.String)
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Dni
+comment1.params=argumentos
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ M\u00E9todo\ main\ dentro\ de\ la\ clase\ Dni\ que\ solicite\ al\ usuario\ su\ DNI,\ a\ continuaci\u00F3n\ llame\ \r\n\ \ al\ m\u00E9todo\ filtroLongitud,\ y\ si\ la\ llamada\ se\ eval\u00FAa\ a\ true,\ lo\ muestre\ por\ pantalla\ \r\n\ \ con\ el\ siguiente\ formato\ "El\ DNI\ introducido\ es\ ...";\ \r\nsi\ \ la\ llamada\ ha\ devuelto\ false\ se\ debe\ mostrar\ el\ siguiente\ mensaje\ por\ pantalla\:\ "Longitud\ incorrecta".
+comment2.params=dni
+comment2.target=boolean\ filtroLongitud(java.lang.String)
+comment2.text=\ M\u00E9todo\ llamado\ filtroLongitud\ dentro\ de\ la\ clase\ Dni\ que,\ tomando\ como\ dato\ de\ entrada\ una\ cadena\ de\ texto\r\n\ \ que\ representa\ el\ valor\ de\ un\ DNI,\ compruebe\ que\ dicha\ cadena\ tiene\ 9\ caracteres,\ devolviendo\ true\ en\ ese\ caso;\r\nen\ caso\ contrario\ (la\ cadena\ recibida\ no\ tiene\ 9\ caracteres),\ entonces\ el\ m\u00E9todo\ debe\ devolver\ false.
+comment3.params=dni
+comment3.target=boolean\ filtroDigitosLetra(java.lang.String)
+comment3.text=\ M\u00E9todo\ llamado\ filtroDigitosLetra\ dentro\ de\ la\ clase\ Dni\ que,\ tomando\ como\ dato\ de\ entrada\ una\ cadena\ de\ texto\r\n\ \ que\ representa\ el\ valor\ de\ un\ DNI,\ compruebe\ en\ primer\ lugar\ si\ dicha\ cadena\ tiene\ 9\ caracteres,\ y\ entonces\ s\u00F3lo\ \r\n\ \ en\ ese\ caso,\ deber\u00E1\ obtener\ por\ un\ lado\ la\ subcadena\ con\ los\ 8\ primeros\ caracteres\ (String),\ y\ por\ otro,\ \r\n\ \ el\ \u00FAltimo\ car\u00E1cter\ (char);\ a\ continuaci\u00F3n\ deber\u00E1\ comprobar\ que\ efectivamente\ la\ subcadena\ est\u00E1\ formada\ \u00EDntegramente\r\n\ \ por\ d\u00EDgitos\ y\ que\ el\ \u00FAltimo\ car\u00E1cter\ es\ una\ letra\ may\u00FAscula.\ \r\nSi\ el\ m\u00E9todo\ pasa\ todos\ los\ filtros,\ devolver\u00E1\ true;\ en\ caso\ contrario,\ entonces\ el\ m\u00E9todo\ debe\ devolver\ false.
+comment4.params=dni
+comment4.target=boolean\ filtroLetraCorrecta(java.lang.String)
+comment4.text=\ \r\n\ \ \ \ Convierte\ la\ parte\ num\u00E9rica\ del\ DNI\ a\ un\ entero\ mediante\ Integer.parseInt\r\n\ \ \ \ Obt\u00E9n\ el\ resto\ de\ dividir\ ese\ n\u00FAmero\ por\ 23\r\n\ \ \ \ Declara\ una\ variable\ String\ con\ el\ siguiente\ contenido\ "TRWAGMYFPDXBNJZSQVHLCKE"\r\n\ \ \ \ Emplea\ el\ m\u00E9todo\ charAt\ para\ obtener,\ dentro\ de\ esta\ cadena,\ el\ car\u00E1cter\ que\ ocupa\ la\ \r\n\ \ \ \ posici\u00F3n\ correspondiente\ al\ c\u00E1lculo\ del\ resto\ obtenido\ anteriormente\r\n\ \ \ \ Estructura\ if\:\ Si\ la\ letra\ calculada\ no\ coincide\ con\ la\ introducida\ por\ el\ usuario,\ entonces\:\r\n\ \ \ \ \ \ \ \ 1.\ Muestra\ el\ mensaje\ "DNI\ incorrecto\:\ la\ letra\ de\ control\ del\ n\u00FAmero\ ...\ deber\u00EDa\ ser\ la\ ..."\r\n\ \ \ \ \ \ \ \ 2.\ Pone\ la\ variable\ correcto\ a\ false\r\n
+comment5.params=s
+comment5.target=int\ parseInt(java.lang.String)
+comment5.text=Convierte\ la\ parte\ num\u00E9rica\ del\ String\ a\ un\ int
+comment6.params=s
+comment6.target=boolean\ isInt(java.lang.String)
+comment6.text=Devuelve\ true\ si\ el\ String\ introducido\ est\u00E1\ compuesto\ \u00FAnicamente\ por\ n\u00FAmeros\ enteros
+numComments=7

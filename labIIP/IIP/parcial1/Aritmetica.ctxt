@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Aritmetica
+comment1.params=n\ exp
+comment1.target=double\ redondear(double,\ int)
+comment10.params=horaSal\ minSal\ horaLleg\ minLleg
+comment10.target=int\ duracion(int,\ int,\ int,\ int)
+comment11.params=alturaEnCM
+comment11.target=double\ caminante(int)
+comment2.params=a\ b\ c
+comment2.target=double\ p01(int,\ int,\ int)
+comment3.params=a\ b\ c
+comment3.target=double\ p02(int,\ int,\ int)
+comment4.params=radio
+comment4.target=double\ area(double)
+comment5.params=radio
+comment5.target=double\ volumenRadio(double)
+comment6.params=area
+comment6.target=double\ volumenArea(double)
+comment7.params=tempC
+comment7.target=double\ c2f(double)
+comment8.params=tempF
+comment8.target=double\ f2c(double)
+comment9.params=precioSinIVA\ IVA
+comment9.target=double\ masIVA(double,\ int)
+numComments=12

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DailyNoiseLevels
+comment0.text=\r\n\ Clase\ DailyNoiseLevels\:\ representa\ un\ registro\ de\ las\ medidas\ de\ ruido\ \r\n\ realizadas\ \ a\ lo\ largo\ de\ las\ 24h\ de\ un\ dia\ en\ una\ estacion\ de\ medicion\ \r\n\ dada\ situada\ en\ via\ publica.\r\n\ \r\n\ @author\ IIP\ -\ Parcial\ 2\r\n\ @version\ Curso\ 2020/21\ \r\n
+comment1.params=
+comment1.target=DailyNoiseLevels()
+comment2.params=m
+comment2.target=void\ add(Measure)
+comment3.params=
+comment3.target=int\ firstOccupied()
+comment4.params=
+comment4.target=int\ getMaxIndex()
+comment5.params=
+comment5.target=Measure[]\ filterByMaxExceeded()
+numComments=6

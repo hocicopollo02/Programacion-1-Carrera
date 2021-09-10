@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=examen_rec_18_19
+comment1.params=fileIn\ fileOut
+comment1.target=java.io.File\ detectarErrores(java.lang.String,\ java.lang.String)
+comment2.params=q\ x
+comment2.target=void\ recular(Parcial2.QueueIntLinked,\ int)
+numComments=3

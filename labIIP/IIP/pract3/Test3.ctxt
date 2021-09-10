@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Test3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=h\ m
+comment2.target=void\ horaActual(int,\ int)
+comment3.params=hora\ minutos\ horaAct\ minutoAct
+comment3.target=int\ dif(int,\ int,\ int,\ int)
+comment4.params=s
+comment4.target=boolean\ isCapicua(java.lang.String)
+numComments=5

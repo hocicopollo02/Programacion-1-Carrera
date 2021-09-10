@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pregunta2
+comment0.text=\r\n\ Clase\ Pregunta2.\ \r\n\ @author\ IIP\ -\ Parcial\ 2\r\n\ @version\ 27/01/21\r\n
+comment1.params=
+comment1.target=Pregunta2()
+comment2.params=a\ b
+comment2.target=int\ parejas(int[],\ int[])
+comment2.text=\ Devuelve\ el\ numero\ de\ parejas\ de\ dos\ arrays\ enteros\ a\ y\ b\ \r\n\ \ que\ suman\ cero\ (a[i]\ +\ b[j]\ \=\ 0).\r\n\ \ Precondicion\:\ a.length\ >\ 0,\ b.length\ >\ 0\ \ \ \ \ y\ puede\ ser\ \r\n\ \ que\ a.length\ \!\=\ b.length.\ \r\n
+numComments=3

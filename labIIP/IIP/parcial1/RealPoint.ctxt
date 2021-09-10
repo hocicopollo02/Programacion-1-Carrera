@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RealPoint
+comment1.params=
+comment1.target=RealPoint()
+comment2.params=x\ y
+comment2.target=RealPoint(double,\ double)
+comment3.params=other
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=i
+comment4.target=double\ dist(RealPoint)
+numComments=5

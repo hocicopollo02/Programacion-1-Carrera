@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NodeStudent
+comment1.params=nombre\ nota
+comment1.target=NodeStudent(java.lang.String,\ double)
+comment1.text=Constructor\ parcial
+comment2.params=nombre\ nota\ s
+comment2.target=NodeStudent(java.lang.String,\ double,\ NodeStudent)
+comment2.text=Constructor\ total
+comment3.params=o
+comment3.target=int\ compareTo(NodeStudent)
+numComments=4

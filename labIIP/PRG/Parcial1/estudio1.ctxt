@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=estudio1
+comment1.params=a\ k\ i\ f
+comment1.target=boolean\ capicua(int[],\ int,\ int,\ int)
+comment10.params=a\ i\ f
+comment10.target=int\ sumaCapicua(int[],\ int,\ int)
+comment11.params=a\ x
+comment11.target=void\ prefijosSumanMenosQue(int[],\ int)
+comment2.params=v\ n\ i
+comment2.target=int\ longitud(java.lang.String[],\ int,\ int)
+comment3.params=a\ i
+comment3.target=int\ puntoCorte(double[],\ int)
+comment4.params=a\ x\ i
+comment4.target=int\ multiplos(int[],\ int,\ int)
+comment5.params=a\ n
+comment5.target=void\ crearSucesion(int[],\ int)
+comment6.params=n
+comment6.target=int[]\ crearSucesion(int)
+comment7.params=a\ x\ i
+comment7.target=int\ suma(int[],\ int,\ int)
+comment8.params=a\ i
+comment8.target=boolean\ fibo(int[],\ int)
+comment9.params=a\ i
+comment9.target=boolean\ parCreciente(int[],\ int)
+comment9.text=Dado\ un\ array\ a\ de\ int\ con\ al\ menos\ un\ elemento,\ escribir\ un\ m\u00E9todo\ recursivo\ que\ compruebe\r\nsi\ todos\ los\ valores\ del\ array\ son\ pares\ y\ est\u00E1n\ almacenados\ en\ orden\ creciente.
+numComments=12

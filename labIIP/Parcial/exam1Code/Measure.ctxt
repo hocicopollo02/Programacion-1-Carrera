@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Measure
+comment0.text=\r\n\ Clase\ Measure\:\ medida\ del\ ruido\ en\ un\ instante\ determinado\ en\ \r\n\ una\ estacion\ de\ medicion\ de\ ruido\ en\ via\ publica.\r\n\r\n\ @author\ IIP\r\n\ @version\ Curso\ 2020/21\r\n
+comment1.params=t\ r\ e
+comment1.target=Measure(TimeInstant,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=Measure()
+comment3.params=inf\ sup
+comment3.target=double\ aleatory(double,\ double)
+comment3.text=Genera\ un\ valor\ real\ aleatorio\ en\ [inf,\ sup\ +\ 1[,\ siendo\ inf\ <\=\ sup.
+comment4.params=
+comment4.target=double\ getNoise()
+comment5.params=n
+comment5.target=void\ setNoise(double)
+comment6.params=other
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=boolean\ exceedsMax()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

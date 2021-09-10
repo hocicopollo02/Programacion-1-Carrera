@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TestRemovePos
+comment0.text=\r\n\ Clase\ programa\ para\ facilitar\ la\ prueba\ del\ codigo,\ desarrollado\ por\ \r\n\ el\ alumno,\ para\ el\ metodo\ removePos.\r\n\ El\ main\ crea\ una\ secuencia\ con\ 4\ cuadrados\ de\ igual\ tamanyo\ superpuestos\:\r\n\ gris\ en\ el\ origen,\ verde\ desplazado\ a\ la\ derecha\ y\ arriba,\ rojo\ tambien\ desplazado\ \r\n\ a\ la\ derecha\ y\ arriba\ y\ azul\ desplazado\ tambien\ a\ la\ derecha\ y\ arriba.\r\n\ Se\ realizan\ cinco\ pruebas\ partiendo\ de\ la\ secuencia\ original\r\n\ y\ eliminando\ mediante\ el\ metodo\ removePos(int)\ el\ poligono\ que\ ocupa\ una\ posicion\ \r\n\ dada\:\r\n\ 1.-\ Llamar\ al\ metodo\ removePos(4)\ sobre\ la\ secuencia\ de\ cuadrados\ con\ una\ posicion\r\n\ \ \ \ \ no\ valida\ y\ comprobar\ que\ no\ hace\ nada.\r\n\ 2.-\ Llamar\ al\ metodo\ removePos(0)\ para\ eliminar\ el\ que\ ocupa\ la\ posicion\ 0\ y\r\n\ \ \ \ \ \ comprobar\ que\ se\ elimina\ el\ rectangulo\ azul\ (el\ del\ frente),\ y\ es\ el\ rojo\ \r\n\ \ \ \ \ \ el\ que\ queda\ al\ frente.\r\n\ 3.-\ Llamar\ al\ metodo\ removePos(1)\ para\ eliminar\ el\ que\ ocupa\ la\ posicion\ 1\ y\ \r\n\ \ \ \ \ \ comprobar\ que\ se\ elimina\ el\ rectangulo\ verde\ (el\ de\ enmedio).\r\n\ 4.-\ Llamar\ al\ metodo\ removePos(1)\ para\ eliminar\ el\ que\ ocupa\ la\ posicion\ 1\ y\ \r\n\ \ \ \ \ \ comprobar\ que\ se\ elimina\ el\ rectangulo\ gris\ (el\ del\ fondo).\r\n\ 5.-\ Llamar\ al\ metodo\ removePos(0)\ para\ eliminar\ el\ que\ ocupa\ la\ posicion\ 0\ y\ \r\n\ \ \ \ \ \ comprobar\ que\ se\ elimina\ el\ rectangulo\ rojo\ y\ el\ grupo\ queda\ sin\ poligonos.\ \ \ \ \ \r\n\ \ \ \ \ \r\n\ Esta\ clase\ es\ para\ uso\ particular\ del\ alumno.\ \r\n\ No\ se\ entrega.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curso\ 2020-21\r\n
+comment1.params=
+comment1.target=TestRemovePos()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=gd\ g
+comment3.target=void\ drawGroup(graph2D.Graph2D,\ PolygonGroupExam)
+comment3.text=\ \r\n\ Muestra\ en\ la\ salida\ grafica\ un\ grupo\ de\ poligonos\ dado.\r\n\ @param\ gd\ Graph2D,\ el\ grafo.\r\n\ @param\ p\ PolygonGroup,\ el\ grupo\ de\ poligonos.\r\n
+comment4.params=
+comment4.target=PolygonGroupExam\ makeGroup()
+comment4.text=\ \r\n\ Crea\ un\ grupo\ con\ 3\ cuadrados\ en\ escalera.\r\n\ @return\ p\ PolygonGroup,\ el\ grupo\ de\ poligonos.\r\n
+comment5.params=p\ q
+comment5.target=boolean\ equals(Polygon,\ Polygon)
+comment5.text=\ Comprueba\ si\ dos\ poligonos\ son\ iguales.\r\n\ \ @param\ p\ Polygon.\r\n\ \ @param\ q\ Polygoon.\r\n\ \ @return\ boolean,\ true\ si\ son\ iguales;\ en\ caso\ contrario,\ false.\ \r\n
+numComments=6

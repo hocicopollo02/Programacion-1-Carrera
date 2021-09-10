@@ -1,0 +1,54 @@
+#BlueJ class context
+comment0.target=Recursividad
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=n
+comment10.target=void\ ordenDescendente(int)
+comment11.params=n
+comment11.target=void\ ordenCreciente(int)
+comment12.params=n
+comment12.target=void\ escribeRaro(int)
+comment12.text=n\ >\=\ 0.
+comment13.params=n
+comment13.target=void\ printInverso(int)
+comment13.text=Calcula\ el\ inverso\ de\ un\ n\u00FAmero\ .Ej\:\ 123\ -->\ 321
+comment14.params=n\ pos
+comment14.target=void\ printElementos(int[],\ int)
+comment14.text=Devuelve\ por\ pantalla\ los\ elementos\ de\ un\ array\ desde\ la\ posici\u00F3n\ "pos"\ hasta\ el\ final
+comment15.params=s\ n\ i
+comment15.target=int\ elementosLongitud(java.lang.String[],\ int,\ int)
+comment15.text=Devuelve\ el\ n\u00FAmero\ de\ elementos\ del\ array\ cuya\ longitud\ sea\ \=\ n
+comment16.params=a\ i
+comment16.target=boolean\ arrayOrdenado(double[],\ int)
+comment16.text=Devuelve\ true\ si\ el\ array\ que\ le\ pasamos\ est\u00E1\ ordenado
+comment17.params=a\ i
+comment17.target=int\ puntoCorte(double[],\ int)
+comment17.text=\ M\u00E9todo\ que\ calcula\ dado\ un\ array\ de\ coordenadas\ Y\ de\ una\ recta,\ el\ punto\ del\ array\ donde\ \r\nla\ recta\ corta\ con\ el\ eje\ X.\ En\ el\ caso\ de\ que\ no\ corte\ o\ el\ array\ no\ est\u00E9\ ordenado,\ devolver\u00E1\ -1.
+comment18.params=a\ i\ p
+comment18.target=boolean\ multispoof(int[],\ int,\ int)
+comment19.params=a\ i
+comment19.target=int\ dec(int[],\ int)
+comment2.params=a\ b
+comment2.target=int\ mult(int,\ int)
+comment2.text=Precondici\u00F3n\:\ b\ >\=\ 0
+comment20.params=a\ i
+comment20.target=int\ decJorge_asc(int[],\ int)
+comment21.params=a\ i
+comment21.target=int\ decJorge_desc(int[],\ int)
+comment3.params=a\ b
+comment3.target=int\ cociente(int,\ int)
+comment3.text=\ a\ /\ b\r\n\ Precondici\u00F3n\:\ a\ >\=\ 0,\ b\ >\=\ 0\r\n
+comment4.params=a\ b
+comment4.target=int\ mult_rusa(int,\ int)
+comment5.params=a\ b
+comment5.target=int\ potencia_rusa(int,\ int)
+comment5.text=a\ ^\ b\ \ donde\ a\ \!\=\ 0\ y\ b\ >\=\ 0
+comment6.params=n
+comment6.target=int\ numDigitos(int)
+comment7.params=n
+comment7.target=int\ sumDigitos(int)
+comment8.params=n
+comment8.target=int\ inverso(int)
+comment9.params=n
+comment9.target=int\ decBin(int)
+numComments=22

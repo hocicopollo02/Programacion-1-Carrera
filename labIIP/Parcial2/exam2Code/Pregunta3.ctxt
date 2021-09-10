@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pregunta3
+comment0.text=\r\n\ Clase\ Pregunta3.\ \r\n\ @author\ IIP\ -\ Parcial\ 2\r\n\ @version\ 27/01/21\r\n
+comment1.params=
+comment1.target=Pregunta3()
+comment2.params=epsilon
+comment2.target=int\ iteraciones(double)
+comment2.text=\ Devuelve\ el\ numero\ de\ iteraciones\ necesarias\ para\ que\ la\ diferencia\r\n\ \ en\ valor\ absoluto\ entre\ el\ valor\ de\ Math.PI\ y\ el\ valor\ de\ pi\ calculado\r\n\ \ usando\ el\ desarrollo\ en\ serie\ de\ Leibniz\ sea\ menor\ o\ igual\ que\ un\ epsilon\ \r\n\ \ (double)\ dado.\r\n\ \ Precondicion\:\ 0\ <\=\ epsilon\ <\ 1.\r\n
+numComments=3
